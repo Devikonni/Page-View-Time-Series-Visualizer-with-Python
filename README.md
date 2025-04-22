@@ -1,5 +1,5 @@
 # Page-View-Time-Series-Visualizer-with-Python
-# **Page View Time Series Visualizer**
+
 
 **Project Description**:  
 This Python project visualizes time series data using line charts, bar charts, and box plots. The dataset used contains daily page views on the freeCodeCamp.org forum from May 9, 2016, to December 3, 2019. The goal of this project is to help you visualize and analyze patterns of website traffic, including yearly and monthly growth, using **Pandas**, **Matplotlib**, and **Seaborn**.
