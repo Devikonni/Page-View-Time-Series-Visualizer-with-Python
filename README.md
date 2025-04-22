@@ -51,7 +51,9 @@ This Python project visualizes time series data using line charts, bar charts, a
 
  
 git clone https://github.com/your-username/page-view-time-series-visualizer.git
-2. **Install dependencies:
+
+
+2. **Install dependencies**:
 
 Ensure that you have Python 3 installed. You can install the necessary Python packages by running:
 
