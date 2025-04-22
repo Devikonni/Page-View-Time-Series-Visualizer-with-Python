@@ -57,12 +57,12 @@ Ensure that you have Python 3 installed. You can install the necessary Python pa
 
  
 pip install pandas matplotlib seaborn
-3. **Run the project:
+3. **Run the project**:
 
 The main script for the project is time_series_visualizer.py. To run the visualizations, execute the following command:
  
 python time_series_visualizer.py
-3. **Testing:
+3. **Testing**:
 
 The unit tests for this project are in test_module.py. To ensure the code works as expected, you can run the tests using:
 
